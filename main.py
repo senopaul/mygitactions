@@ -1,7 +1,7 @@
-def hello();
-  print('hi')
+def hello():
+    print('hi')
 
-def boys();
-  print('boys)
+def boys():
+    print('boys)
 
-print (hello());
+print (hello())
